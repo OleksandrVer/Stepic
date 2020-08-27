@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Git\Stepic\strlen,strcat\strlen,strcat\Source.cpp(30,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  strlen,strcat.vcxproj -> C:\Git\Stepic\strlen,strcat\Debug\strlen,strcat.exe
