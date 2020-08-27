@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Git\Stepic\FindStringInString\FindStringInString\Source.cpp(39): warning C4715: strStr: значение возвращается не при всех путях выполнения
+  FindStringInString.vcxproj -> C:\Git\Stepic\FindStringInString\Debug\FindStringInString.exe
